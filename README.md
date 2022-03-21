@@ -26,18 +26,16 @@ A Full Stack MERN application which helps in rejoicing the good ol' memories.
 ## About The Project
 
 <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://github.com/ajaykmr8684/Travisor/blob/main/DemoImages/Screenshot%20(188).png" alt="Logo" >
+    <img src="https://github.com/ajaykmr8684/Thought/blob/main/DemoImages/Capture.PNG" alt="Logo" >
   </a>
   
    <br />
     <br />
     
- <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://github.com/ajaykmr8684/Travisor/blob/main/DemoImages/Screenshot%20(189).png" alt="Logo" >
- </a>
+
     
   
-
+<br />
 Thought is implemented using ReactJS in frontend and Backend is done using NodeJS. 
 
 * It also includes a little touch of Redux
@@ -100,6 +98,6 @@ _Below is an example of how you can instruct your audience on installing and set
    
    * Front end part is deployed on Netflify
    * Backend is hosted on Heroku
-   * 
+   
 
 <p align="right">(<a href="#top">back to top</a>)</p>
